@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "9328C7F709FCAD474D70BC86"
+               BuildableName = "ControllerCommunication_ObjC.app"
+               BlueprintName = "ControllerCommunication_ObjC"
+               ReferencedContainer = "container:ControllerCommunication_ObjC.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "9328C7F709FCAD474D70BC86"
+            BuildableName = "ControllerCommunication_ObjC.app"
+            BlueprintName = "ControllerCommunication_ObjC"
+            ReferencedContainer = "container:ControllerCommunication_ObjC.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>
